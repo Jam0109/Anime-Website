@@ -1,0 +1,14 @@
+.a{
+	height: 100%;
+	width: 100%;
+}
+
+label{
+	font-size: 20px;
+}
+
+#signin{
+	width: 35%;
+	padding: 20px;
+}
+
